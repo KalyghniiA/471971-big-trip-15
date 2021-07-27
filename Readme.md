@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Саша Калюжный](https://up.htmlacademy.ru/ecmascript/15/user/471971).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Шершнев](https://htmlacademy.ru/profile/shv_sergey).
 
 ---
 
