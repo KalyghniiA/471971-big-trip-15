@@ -1,6 +1,7 @@
 import {createItemElement} from './event';
+import {createEventEditElement} from './event-edit';
 
-const QUANTITY_ITEMS = 9;
+const QUANTITY_ITEMS = 3;
 const renderEvents = () => {
   let events = '';
   for (let i = 0; i < QUANTITY_ITEMS; i++) {
@@ -11,6 +12,7 @@ const renderEvents = () => {
 
 const createItemsElement = () => (
   `<ul class="trip-events__list">
+      ${createEventEditElement()}
       ${renderEvents()}
      </ul>
   `
